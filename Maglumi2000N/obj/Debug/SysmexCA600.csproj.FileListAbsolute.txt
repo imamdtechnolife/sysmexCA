@@ -1,0 +1,16 @@
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\SysmexCA600.exe.config
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\SysmexCA600.exe.manifest
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\SysmexCA600.application
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\SysmexCA600.exe
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\SysmexCA600.pdb
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\EntityFramework.dll
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\EntityFramework.xml
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\SysmexCA600.csproj.AssemblyReference.cache
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\SysmexCA600.csproj.CoreCompileInputs.cache
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\SysmexCA600.exe.manifest
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\SysmexCA600.application
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\SysmexCA600.csproj.CopyComplete
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\SysmexCA600.exe
+D:\Downloads\SysmexCA600\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\SysmexCA600.pdb

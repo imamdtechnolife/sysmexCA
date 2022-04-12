@@ -1,0 +1,16 @@
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\Esr.exe.config
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\Esr.exe.manifest
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\Esr.application
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\Esr.exe
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\Esr.pdb
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\EntityFramework.dll
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\EntityFramework.xml
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\EsrProject.csproj.AssemblyReference.cache
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\EsrProject.csproj.CoreCompileInputs.cache
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\Esr.exe.manifest
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\Esr.application
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\EsrProject.csproj.CopyComplete
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\Esr.exe
+D:\Downloads\LisSoftware\Maglumi2000N\Maglumi2000N\Maglumi2000N\Maglumi2000N\obj\Debug\Esr.pdb
